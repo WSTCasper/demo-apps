@@ -27,7 +27,7 @@
     "react-native-svg": "9.6.4",
     "react-native-unimodules": "0.14.10",
     "react-native-web": "~0.13.12",
-    "web3": "^1.6.0"
+    "web3": "^1.7.5"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
