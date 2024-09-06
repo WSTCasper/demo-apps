@@ -12,13 +12,13 @@
     "core-js": "^3.6.5",
     "dotenv": "^10.0.0",
     "env-var": "^7.0.1",
-    "moralis": "^0.0.90",
-    "vue": "^3.0.0",
+    "moralis": "^2.0.0",
+    "vue": "^3.3.5",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0",
     "vuex-module-decorators": "^1.0.1",
-    "web3": "^1.6.0"
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.18.0",
